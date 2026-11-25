@@ -1,0 +1,13 @@
+country_tier,acquisition_channel,installs,rev30_per_install
+1,organic,4373,3.81
+1,paid_social,3970,3.26
+1,paid_video,1432,3.44
+2,organic,3329,2.42
+2,paid_social,2914,2.16
+2,paid_video,1106,2.25
+3,organic,2873,1.79
+3,paid_social,2505,1.73
+3,paid_video,1982,1.71
+4,organic,2373,1.02
+4,paid_social,2122,1.05
+4,paid_video,8510,1.13
