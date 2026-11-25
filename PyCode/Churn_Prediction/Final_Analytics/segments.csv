@@ -1,0 +1,10 @@
+segment,n,churn_rate,auc
+tenure<14d,18879,0.061,0.66
+tenure 14-60d,27614,0.164,0.658
+tenure>60d,22696,0.324,0.659
+payers,9427,0.194,0.692
+non-payers,59762,0.187,0.738
+tier1,16734,0.225,0.711
+tier4,26618,0.141,0.723
+active 1 of last 7d,39117,0.237,0.708
+active 3+ of last 7d,11054,0.079,0.699
