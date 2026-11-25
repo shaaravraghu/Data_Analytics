@@ -1,0 +1,5 @@
+metric,channel,diff_vs_organic,ci_lo,ci_hi,p_value,organic_baseline
+rev30,paid_social,-0.23233,-0.50537,0.0407,0.09536,2.43973
+rev30,paid_video,-0.12119,-0.42546,0.18308,0.435,2.43973
+d7,paid_social,-0.0089,-0.01871,0.00092,0.07578,0.26404
+d7,paid_video,-0.01106,-0.02126,-0.00086,0.03356,0.26404

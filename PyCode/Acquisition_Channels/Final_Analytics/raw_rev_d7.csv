@@ -1,0 +1,4 @@
+channel,n,mean,ci_lo,ci_hi
+organic,16316,0.264,0.2573,0.2708
+paid_social,14411,0.2552,0.2481,0.2623
+paid_video,26910,0.2488,0.2437,0.254
